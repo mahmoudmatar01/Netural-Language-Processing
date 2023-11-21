@@ -29,9 +29,9 @@
 - Since 2015 ,the field has thus largely abandoned statistical methods and shifted to neural networks .
 
 - Popular techiques include the use of word embedding to capture semantic properties of words, and an inceade in end-to-end learing of a higher level task instead of relying on a pipeline of separate intermediate tasks .
-
+```
 ------------------- Common NLP Tasks (Applications) -------------------
-
+```
 ## Text and speech processing :
 
 ### OCR (Optical char recognition) :- 
@@ -111,9 +111,9 @@ given a piece of text , produce a formal representation of its semantics either 
 
 ### Semantic role labelling :-
 given a single sentence, identify and disambiguate semantic predicates,then identify and classify the frame elements.
-
+```
 ------------------- There are a lot of applications in NLP -------------------
-
+```
 ## RMM :-
 is the relative measure of meaning 
 
